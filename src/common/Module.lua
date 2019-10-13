@@ -1,6 +1,6 @@
 local Module = {}
 
-function Module.HelloWorld()
+function Module.helloWorld()
     print("Hello world!")
 end
 
